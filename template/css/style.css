@@ -1,0 +1,6 @@
+#large-photo{
+    width: 60vmin;
+    height: 60vmin;
+    position: absolute;
+    z-index: 9;
+}
